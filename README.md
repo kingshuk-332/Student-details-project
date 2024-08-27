@@ -1,7 +1,7 @@
 # Student-details-project
-Here is a concise README file for the Marks Management Smart Contract, designed to fit within 50–60 lines and include the required sections:
 
----
+![th](https://github.com/user-attachments/assets/9bb9f0e4-891f-4a2f-9e5c-7b85ffc0ae0f)
+
 
 # Marks Management Smart Contract
 
