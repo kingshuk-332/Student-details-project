@@ -59,7 +59,7 @@ The Marks Management Smart Contract facilitates the management of student marks 
 ## Contract Address
 
 Contact Address-0xae1a81f2bb077be619fa239de7aeafdffabc6698
-Please verify this address on Etherscan for up-to-date information.
+
 
 ## Future Scope
 
